@@ -1,7 +1,8 @@
-layout: page
-title: "Testing Github Pages"
-permalink: /test/
-
+---
+layout: about
+title: About
+permalink: /about/
+---
 
 # Testing
 Hello World
